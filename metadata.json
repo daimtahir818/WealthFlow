@@ -1,0 +1,6 @@
+{
+  "name": "WealthFlow",
+  "description": "Premium offline-first finance manager with a midnight-indigo aesthetic, interactive charts, and real-time budget tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
